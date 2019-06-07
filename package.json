@@ -16,6 +16,7 @@
   "dependencies": {
     "@firebase/app": "^0.4.3",
     "@firebase/auth": "^0.11.2",
+    "@tensorflow/tfjs": "^1.1.2",
     "compression": "^1.7.1",
     "firebase": "^6.0.4",
     "now-sapper": "^0.23.0",
